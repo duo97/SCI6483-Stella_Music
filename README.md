@@ -1,2 +1,5 @@
-# SCI6483-Stella_Music
-SCI6483 final project - stella music - implemented by Qing Feng, Duo Ju, Haochen Zhang
+# Stella music 
+- a 3D interactive music visualization app
+- implemented by Qing Feng, Duo Ju, Haochen Zhang
+- Uses React, Shaders, Three.js and Spotify API
+-
